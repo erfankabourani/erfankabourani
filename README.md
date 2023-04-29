@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erfankabourani
 - 👀 I’m interested in Data science & R programing language & python
-- 🌱 I’m currently learning RStudio
+- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
